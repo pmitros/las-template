@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<course advanced_modules="[&quot;word_cloud&quot;, &quot;survey&quot;, &quot;poll&quot;]" cert_html_view_enabled="true" course="LAS_TEMPLATE" display_name="LAS Template Course" language="en" org="LAS" start="&quot;2030-01-01T00:00:00+00:00&quot;" url_name="course">  
+  <chapter display_name="Papers" url_name="Papers">  
+    <sequential display_name="Your paper" url_name="Your_paper">  
+      <vertical display_name="Abstract" url_name="Abstract">  
+        <html display_name="Abstract" filename="Abstract_0" url_name="Abstract_0"/>
+      </vertical>
+      <vertical display_name="Main presentation" url_name="Main_presentation">
+        <html display_name="Main Presentation" filename="Main_Presentation" url_name="Main_Presentation"/>
+      </vertical>
+      <vertical display_name="Quick quiz" url_name="Quick_quiz">
+        <problem url_name="A_quick_quiz"/>
+      </vertical>
+      <vertical display_name="Intake" url_name="Intake">
+        <html display_name="Intake" filename="Intake_0" url_name="Intake_0"/>
+        <word_cloud display_name="Intake" url_name="Intake_1"/>
+        <discussion discussion_target="Intake" display_name="Intake" url_name="Intake_2"/>
+<poll answers="[&#10; [&#10; &quot;R&quot;,&#10; {&#10; &quot;img&quot;: &quot;&quot;,&#10; &quot;img_alt&quot;: &quot;&quot;,&#10; &quot;label&quot;: &quot;Discussion forum&quot;&#10; }&#10; ],&#10; [&#10; &quot;B&quot;,&#10; {&#10; &quot;img&quot;: &quot;&quot;,&#10; &quot;img_alt&quot;: &quot;&quot;,&#10; &quot;label&quot;: &quot;Poll&quot;&#10; }&#10; ],&#10; [&#10; &quot;G&quot;,&#10; {&#10; &quot;img&quot;: &quot;&quot;,&#10; &quot;img_alt&quot;: &quot;&quot;,&#10; &quot;label&quot;: &quot;Word cloud&quot;&#10; }&#10; ]&#10;]" display_name="Intake Poll" question="Which of these tools do you like best?" url_name="intake_poll"/>
+      </vertical>
+      <vertical display_name="Supplementary Resources" url_name="Supplementary_Resources">
+        <html display_name="Supplementary Resources" filename="Supplementary_Resources_0" url_name="Supplementary_Resources_0"/>
+      </vertical>
+      <vertical display_name="Our supplementary resources" url_name="Our_supplementary_resources">
+        <html display_name="Our supplementary resources" filename="Our_supplementary_resources_0" url_name="Our_supplementary_resources_0"/>
+      </vertical>
+    </sequential>
+    <sequential display_name="Other papers" url_name="Other_papers">
+      <vertical display_name="Other papers" url_name="Other_papers_0">
+        <html display_name="Other papers" filename="Other_papers_1" url_name="Other_papers_1"/>
+      </vertical>
+    </sequential>
+  </chapter>
+  <wiki display_name="LAS Template Course" slug="LAS.LAS_TEMPLATE.2016" url_name="LAS_Template_Course"/>
+</course>
