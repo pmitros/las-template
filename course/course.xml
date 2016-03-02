@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<course advanced_modules="[&quot;word_cloud&quot;, &quot;survey&quot;, &quot;poll&quot;]" cert_html_view_enabled="true" course="LAS_TEMPLATE" display_name="LAS Template Course" language="en" org="LAS" start="&quot;2030-01-01T00:00:00+00:00&quot;" url_name="course">  
+<course advanced_modules="[&quot;word_cloud&quot;, &quot;survey&quot;, &quot;poll&quot;]" display_name="LAS Template Course">  
   <chapter display_name="Papers" url_name="Papers">  
     <sequential display_name="Your paper" url_name="Your_paper">  
       <vertical display_name="Abstract" url_name="Abstract">  
